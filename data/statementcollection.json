@@ -1,0 +1,12 @@
+{"statements": [
+    {"statement": "a&b"},
+    {"statement": "T|F"},
+    {"statement": "T&F"},
+    {"statement": "T&F"},
+    {"statement": "T&F"},
+    {"statement": "T&F"},
+    {"statement": "T&F"},
+    {"statement": "T&F"},
+    {"statement": "a&b"},
+    {"statement": "T|T"}
+]}

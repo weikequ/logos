@@ -1,0 +1,6 @@
+{"statements": [
+    {"statement": "a&b"},
+    {"statement": "T&b"},
+    {"statement": "T&F"},
+    {"statement": "F&F"}
+]}
